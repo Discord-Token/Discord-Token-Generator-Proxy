@@ -1,4 +1,4 @@
-# Discord Token Generator
+# Discord Token Generator Proxy Version
 A Proxyless Discord Token Generator using Playwright (Outdated Version)
 
 ## Why are we releasing this?

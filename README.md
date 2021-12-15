@@ -9,7 +9,7 @@ Windows, Brain, Fingers, [NodeJS](https://nodejs.org/en/), Playwright (install.b
 
 ## Things you should follow to prevent bad things from happening
 - **DO NOT** (try to) use it commercially without our permission
-- **DO NOT** ask for support, we will not help with your issue
+- **DO NOT ask for support**, we will not help with your issue
 - We are not responsible for the damage caused by using it
 
 ## Where can I get the new version?
